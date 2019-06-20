@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      "react-native-google-analytics-bridge@6.1.0",
+      "/Users/mirza/Documents/projects/ayo-retailer"
+    ]
+  ],
+  "_from": "react-native-google-analytics-bridge@6.1.0",
+  "_id": "react-native-google-analytics-bridge@6.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-pFrXDAdu49OirzYEfLitLKSEvMe1NfSaiKz8D9RRW6XYh7ihh5ukwE3qzGV5BzgyXjNYn/IXmsd40SZh7K3QVw==",
+  "_location": "/react-native-google-analytics-bridge",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-google-analytics-bridge@6.1.0",
+    "name": "react-native-google-analytics-bridge",
+    "escapedName": "react-native-google-analytics-bridge",
+    "rawSpec": "6.1.0",
+    "saveSpec": null,
+    "fetchSpec": "6.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-google-analytics-bridge/-/react-native-google-analytics-bridge-6.1.0.tgz",
+  "_spec": "6.1.0",
+  "_where": "/Users/mirza/Documents/projects/ayo-retailer",
+  "author": {
+    "name": "Idéhub AS"
+  },
+  "bugs": {
+    "url": "https://github.com/idehub/react-native-google-analytics-bridge/issues"
+  },
+  "description": "React Native bridge for using native Google Analytics libraries on iOS and Android",
+  "devDependencies": {
+    "@types/react": "16.3.1",
+    "@types/react-native": "0.55.4",
+    "documentation": "^8.0.0",
+    "husky": "^0.14.3",
+    "prettier": "^1.6.1",
+    "typescript": "^2.5.2"
+  },
+  "homepage": "https://github.com/idehub/react-native-google-analytics-bridge#readme",
+  "keywords": [
+    "react",
+    "native",
+    "google",
+    "analytics",
+    "tracking",
+    "native",
+    "bridge",
+    "events",
+    "screen",
+    "hits",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "name": "react-native-google-analytics-bridge",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idehub/react-native-google-analytics-bridge.git"
+  },
+  "rnpm": {
+    "ios": {
+      "sharedLibraries": [
+        "CoreData.framework",
+        "SystemConfiguration.framework",
+        "libz.tbd",
+        "libsqlite3.0.tbd"
+      ]
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "build-all": "rm -rf dist && yarn run build && yarn run docs",
+    "build-watch": "tsc --watch",
+    "docs": "documentation readme dist/** --section=\"JavaScript API\"",
+    "precommit": "yarn run build",
+    "prepublishOnly": "yarn run build-all",
+    "test": "echo \"Error: no test yet!\" && exit 0"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "6.1.0"
+}

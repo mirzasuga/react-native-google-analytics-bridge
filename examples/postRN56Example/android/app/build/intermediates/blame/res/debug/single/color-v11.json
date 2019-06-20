@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

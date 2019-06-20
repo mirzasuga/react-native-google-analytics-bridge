@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/bad3569dccd4ce7a175d77e742415512e759dec1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_7724e6beca0f18c013a47d526c440a62694eff89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_534497689a557ce2f2d367514ef6db64400b640a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/3765bb64584b12432cd592a0dd9684dae849d980/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_50a1e29be0f2e58d5ddc49ed81c706a8b634f31f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_6a9beb042599cdccdd98fb629844e1bdd8a960bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_5dacf19bc24d971f2737ea82182e303bebbe212f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_83e0389cf23dc35eb12c77ef9222cb289d1c09de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/980803be57131383bd7ba7d3f216750abea1cffb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_649f466220d4a9d4c367c2192026e980706a7737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/da9f4708425a9556f5b2926bfee8325d36e35dce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_a8cefa050c0024c932372721128e98fa135cfcee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/b3b2af4df852b21f8f7f3e05df72d46f7ce09306/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_f6ef00fe63a85e53b6aa44e229fcba5fcf1cfff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_dd9862eb022b87a358a2ce292e3d8e0dcf1b799a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/6b76bfbea860ac4ee336ffd00382a7c3aacad68d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_c67e8abf7534044f0ac65248f4fa685f0fc7e7b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/8e3af918671e948c837df861a5b9e7609e14eecb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fb82d77ecb5196a190b5fe395237310cb9d987f0">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_916c3a60bb0108c72596551dc65b8775d690bfd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/d56baf9a2e8845dd04feeea062646ea7d7205ebf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_767b767cf9763ae3981bf0fa781b18b37328d260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_3c425b018267d45b8ddb2364096fac79f37f6ca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/01d36e7296c2f8dff6926a551aa2259777df9425/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="589cf4763170e413dadd9f92e04aa8a7612d9076">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_f4ccf79917e6426bfe58b252ea46db99fd0ffa55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c35f1de8daf8d7e7c2f8589251d3889eb3b75075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/393dfd1614847bae993c4186172cef24ee97ad90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5a043631fe389291d680c3646c822ece199325fa">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_fd8d4d75ef553642d4d5a88f1e06b87647e4ee7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/a051ba5cf3e7bac4c699e962b11836e5ee2e9d56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_0dd33ef75a43d65f55483c3f462fe746b58504b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/39dde4168b41dbaf97daa7cac107a775bcdec193/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_fe759bb581d164881778456bc222ccb472e1347d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_2c7aad37666c8a0eb164c8409895a139cfb617a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/3c6de51a3d1c57bdd3a30eb4ccb14d4f48993434/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_9fb358e7ff4dd9d4b152add50fda5041a29a5100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/00ec1667ac732d5586ae7851507e9058428aec9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_f46c3f2afbd86f9c57108cb8c341ad4af24e4b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/1b0524f835ec5cef4a2dc637a365e7f5a2c438e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_e98e567eadcc51098d52ef916cd78b71fc736c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/d5bd94ec898054841f1cc0fd942d2e69dcf48a1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_caddddffc8cef23d795414c8c005cac9da81e697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/c4f9926543790c286b9f59956dffb220e828194e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_f24a3dec3d7f6b3a523eaec5518ee27d93bfaac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d100b71bede571c6208cffedf126f4f3dc810dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/09f41b3a4f6a2d8a8b35f333c585937aef810019/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_9e251ae2f9f1ceb9a8d8b7811c526013da633175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/59b32d20b2fa4f807f7253bf7cf12083e9f5ca0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_5e270ac31fcdbce7f9b72fa2fa879bab1830d3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/a65499e800e48af91cd8706127a2d5a2808dbd5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_00a1ed52c787024b79bf0e8046b76f0b937d9aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a1a1ef1dcea16bec5019ec7d2bfc5d3d12a21696">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_80bafebc51152ce0e75a24952feec2e27420abdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_e1ca53f0a64a1c097a63694efb989fcad0042099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e79cf21d4a781b9395edf97e1d3cd6056e928d85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/980803be57131383bd7ba7d3f216750abea1cffb/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a1c13f59501ca2cd0b296c9f0099c896744361de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/d561d78ac291a9bccfd9efca98e745a822982f92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_90deaa0598fdb3a637f9e4847374e34b603eb46b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/f9f6f7e79d55147ef311159c8033aa51a57446d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="103e9fc73cddee5725d286db23037576ca96cb1d">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_ef7ac417bff7ec61a2d1cb16bb0f429e5fbf3792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/56029e8c7f82d1087f2f9806b33f43fc0b6516ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_ccc1bc9748879ffdc399f29e6ba375dd32e94867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/133890422495cec316bc2493bb2fc4243b35a8aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_88302245bdcb04012b9f27f39b1cf44644578d93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/743317dff0af63662c1d5f8959cdd4f625dc76f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_e889bc766d3b219a23e40d80a484404b19df38b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/eb86be0ef2f07b69a2026c38d67df3ceef40fb10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_402b13b6ccb2536020466478f1f88c7af0d716ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cbrevik/.android/build-cache/f0c147ab3b950198b33f98a0f674f77014d78fa2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/pre-dexed/debug/classes_f8c3ec51dc59533c5b000ab9dfb6b9a4b10d4452.jar" />
+    </item>
+
+</items>

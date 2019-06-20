@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/cbrevik/.android/build-cache/d5bd94ec898054841f1cc0fd942d2e69dcf48a1c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/cbrevik/.android/build-cache/d5bd94ec898054841f1cc0fd942d2e69dcf48a1c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/cbrevik/.android/build-cache/d5bd94ec898054841f1cc0fd942d2e69dcf48a1c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/cbrevik/.android/build-cache/d5bd94ec898054841f1cc0fd942d2e69dcf48a1c/output/res/layout-v21/notification_action.xml"
+    }
+]

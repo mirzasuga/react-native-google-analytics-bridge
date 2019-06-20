@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/cbrevik/.android/build-cache/980803be57131383bd7ba7d3f216750abea1cffb/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/cbrevik/.android/build-cache/980803be57131383bd7ba7d3f216750abea1cffb/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/cbrevik/.android/build-cache/980803be57131383bd7ba7d3f216750abea1cffb/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/cbrevik/.android/build-cache/980803be57131383bd7ba7d3f216750abea1cffb/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/cbrevik/.android/build-cache/980803be57131383bd7ba7d3f216750abea1cffb/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/cbrevik/.android/build-cache/46226bca432d6db4bbd01d2612f8011580d53b05/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/cbrevik/Dev/IH/react-native-google-analytics-bridge/examples/postRN56Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/cbrevik/.android/build-cache/980803be57131383bd7ba7d3f216750abea1cffb/output/res/anim/catalyst_push_up_in.xml"
+    }
+]
